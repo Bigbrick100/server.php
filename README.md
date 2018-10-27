@@ -1,2 +1,2 @@
 # server.php
-My server code
+<?php ?>
