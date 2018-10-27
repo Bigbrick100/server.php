@@ -1,0 +1,21 @@
+body{
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+}
+div.form{
+  padding: 5px;
+  background-color: white;
+}
+form{
+  padding: 0px;
+  margin: 0px;
+}
+input{
+  margin: 5px;
+}
+span{
+  margin: 5px;
+}
