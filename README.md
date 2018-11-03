@@ -1,2 +1,2 @@
 # server.php
-<?php ?>
+<?php require 'index.php';?>
